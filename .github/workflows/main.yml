@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: dcmanik11/mini-project-pokeapi:latest
+        tags: dcmanik11/mini-project-Pok-mon-API:latest
